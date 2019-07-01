@@ -1,0 +1,10 @@
+C:\Users\vvvva\source\repos\HomeWork3\HomeWork3\bin\Debug\HomeWork3.exe.config
+C:\Users\vvvva\source\repos\HomeWork3\HomeWork3\bin\Debug\HomeWork3.exe
+C:\Users\vvvva\source\repos\HomeWork3\HomeWork3\bin\Debug\HomeWork3.pdb
+C:\Users\vvvva\source\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csprojAssemblyReference.cache
+C:\Users\vvvva\source\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.Form1.resources
+C:\Users\vvvva\source\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.Properties.Resources.resources
+C:\Users\vvvva\source\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csproj.GenerateResource.cache
+C:\Users\vvvva\source\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csproj.CoreCompileInputs.cache
+C:\Users\vvvva\source\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.exe
+C:\Users\vvvva\source\repos\HomeWork3\HomeWork3\obj\Debug\HomeWork3.pdb
